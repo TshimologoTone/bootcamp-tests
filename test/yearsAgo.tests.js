@@ -1,0 +1,1 @@
+console.log(yearsAgo(2010)); // Output will vary depending on the current year
